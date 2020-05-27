@@ -1,6 +1,7 @@
 # iromonea
 笑わせるホスト、観客のゲストに分かれ、制限時間以内にゲストをn人笑わせれば勝ち、時間が来たら負けをオンラインで実現するアプリです
 
+
 # 利用アンケートにご協力ください  
 https://forms.gle/Ki7M2oo6E9GcrcpM9
 
@@ -17,7 +18,6 @@ https://obsproject.com/ja/download
 - OBS virtualcameraなどのバーチャルカメラ  
 win:https://obsproject.com/forum/resources/obs-virtualcam.539/  
 win参考サイト:https://level69.net/archives/26918  
-  
 Mac:https://github.com/johnboiles/obs-mac-virtualcam/releases  
 Mac参考サイト:https://note.com/junky/n/neeeeddf57bde  
 注意:MacだとZoomでうまく認識されず、署名を書き換えたりする場合があります(上記参照)
