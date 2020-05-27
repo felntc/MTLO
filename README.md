@@ -17,7 +17,7 @@ https://obsproject.com/ja/download
 - OBS virtualcameraなどのバーチャルカメラ  
 win:https://obsproject.com/forum/resources/obs-virtualcam.539/  
 win参考サイト:https://level69.net/archives/26918  
-Mac:https://github.com/johnboiles/obs-mac-virtualcam/releases
+Mac:https://github.com/johnboiles/obs-mac-virtualcam/releases  
 Mac参考サイト:https://note.com/junky/n/neeeeddf57bde  
 注意:MacだとZoomでうまく認識されず、署名を書き換えたりする場合があります(上記参照)
 
