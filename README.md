@@ -14,20 +14,22 @@ https://forms.gle/Ki7M2oo6E9GcrcpM9
 - 開発途中なので、技術的な問題が多々あります。おおらかな目でプレイしてください
 
 ## 用意するもの
-### Zoomなどで全員がカメラ出力してオンラインプレイをする場合(本格イロモネア)
-- OBSなどの配信ソフト  
+### Zoomなどで全員がカメラ出力してオンラインプレイをする場合(本格イロモネア)  
+2. イロモネアアプリ
+2. OBSなどの配信ソフト  
 https://obsproject.com/ja/download  
-- OBS virtualcameraなどのバーチャルカメラ  
+3. OBS virtualcameraなどのバーチャルカメラ  
 win:https://obsproject.com/forum/resources/obs-virtualcam.539/  
 win参考サイト:https://level69.net/archives/26918  
 Mac:https://github.com/johnboiles/obs-mac-virtualcam/releases  
 Mac参考サイト:https://note.com/junky/n/neeeeddf57bde  
 注意:MacだとZoomでうまく認識されず、署名を書き換えたりする場合があります(上記参照)  
-- zoomやskypeなどの通話環境
+4. zoomやskypeなどの通話環境
 
 ### カメラ出力しないでオンラインプレイをする場合(お手軽イロモネア)
-- zoomやskypeなどの通話環境
-- zoomなどで画面共有できるのは一人ですが、ホストだけが画面共有してプレイ可能です
+1. zoomやskypeなどの通話環境
+2. イロモネアアプリ
+- zoomなどで画面共有できるのは一人ですが、ホストだけが画面共有すればプレイ可能です
 - この場合ゲームは進行しますがMTGアプリ上ではゲストが笑ってもCLEARなどが反映されません 
 
 ## python環境導入についてはinstallation.mdを参照  
