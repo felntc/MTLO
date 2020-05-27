@@ -19,10 +19,10 @@ https://forms.gle/Ki7M2oo6E9GcrcpM9
 2. OBSなどの配信ソフト  
 https://obsproject.com/ja/download  
 3. OBS virtualcameraなどのバーチャルカメラ  
-win:https://obsproject.com/forum/resources/obs-virtualcam.539/  
-win参考サイト:https://level69.net/archives/26918  
-Mac:https://github.com/johnboiles/obs-mac-virtualcam/releases  
-Mac参考サイト:https://note.com/junky/n/neeeeddf57bde  
+[windows用カメラ](https://obsproject.com/forum/resources/obs-virtualcam.539/)  
+[windows参考サイト](https://level69.net/archives/26918)  
+[Mac用カメラ](https://github.com/johnboiles/obs-mac-virtualcam/releases)  
+[Mac参考サイト](https://note.com/junky/n/neeeeddf57bde)  
 注意:MacだとZoomでうまく認識されず、署名を書き換えたりする場合があります(上記参照)  
 4. zoomやskypeなどの通話環境
 
@@ -33,7 +33,7 @@ Mac参考サイト:https://note.com/junky/n/neeeeddf57bde
 - この場合ゲームは進行しますがMTGアプリ上ではゲストが笑ってもCLEARなどが反映されません 
 
 ## python環境導入についてはinstallation.mdを参照  
-https://github.com/felntc/iromonea/blob/master/installation.md
+[installation.md](/installation.md)
   
 ## 遊び方
 - Python環境→iromonea/iromonea.pyを実行する
@@ -91,5 +91,5 @@ https://github.com/felntc/iromonea/blob/master/installation.md
 - 動作が重いです。これは作者の設計やコードスキルによるところが大きいと思われます
 
 ## システム構成  
-https://github.com/felntc/iromonea/blob/master/system.png
+[構成図](system.png)
 
