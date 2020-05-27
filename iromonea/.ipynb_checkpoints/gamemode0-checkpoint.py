@@ -87,7 +87,8 @@ def game(cam,window00):
         if event is None:
             if counter>=1:
                 try:#Exit
-                    exit={"action":"ExitRoom","data":"A"}
+                    pygame.mixer.music.stop() 
+                    exit={"action":"ExitRoom","data":"1"}
                     ws.send(json.dumps(exit))
                     ws.close()
                     window0.close()
@@ -98,8 +99,9 @@ def game(cam,window00):
             else:
                 window0.close()
                 video_capture.release()
+                pygame.mixer.music.stop() 
                 #cv2.destroyAllWindows()
-                iromonea.normal(window00)
+                iromonea.normal(window00,cam)
                 sys.exit()
                
         elif event == 'ログイン':
@@ -158,8 +160,9 @@ def game(cam,window00):
             ws.send(json.dumps(check))
             window1.close()
             video_capture.release()
+            pygame.mixer.music.stop() 
             #cv2.destroyAllWindows()
-            iromonea.normal(window00)
+            iromonea.normal(window00,cam)
             sys.exit()
         elif event == '開始':
             minit=int(values["-min-"])
