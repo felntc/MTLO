@@ -32,8 +32,9 @@ install
   
 ## 遊び方
 - Python環境→iromonea/iromonea.pyを実行する
-- exeで実行→releasesからwindows packageをダウンロードし、windowspackage/iromonea/iromonea.exeを実行
-  
+- exeで実行→releasesからwindows packageをダウンロードし、windowspackage/iromonea/iromonea.exeを実行  
+- 起動に失敗する時：iromonea.pyのline39:cap = cv2.VideoCapture(0)を0以外の値に指定する
+
 ### 毎回やること
 1. **まずメインメニューで"カメラ指定"ボタンを押します(この画面になるたび必要)**
 ![image](https://user-images.githubusercontent.com/64360965/82986397-b6903580-a030-11ea-9f9a-de728598380e.png)
