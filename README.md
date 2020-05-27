@@ -15,7 +15,7 @@ https://forms.gle/Ki7M2oo6E9GcrcpM9
 
 ## 用意するもの
 ### Zoomなどで全員がカメラ出力してオンラインプレイをする場合(本格イロモネア)  
-2. イロモネアアプリ
+１. イロモネアアプリ
 2. OBSなどの配信ソフト  
 https://obsproject.com/ja/download  
 3. OBS virtualcameraなどのバーチャルカメラ  
