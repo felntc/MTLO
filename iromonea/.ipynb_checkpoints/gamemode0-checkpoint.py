@@ -131,9 +131,12 @@ def game(cam,window00):
                 sg.popup("修正しました")
                 counter=1
         elif event == 'チェック':
+            if counter==0:
+                sg.popup("先にログインしてください")
+                continue
             #check-section
             #roomnum,nickname,plyernum,password,limit
-            if host_state is True:
+            elif host_state is True:
                 pygame.mixer.music.load("warai.mp3")
                 pygame.mixer.music.play()
             data=data+","+str(players)+","+password+","+limit

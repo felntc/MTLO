@@ -23,7 +23,7 @@ def normal(window00,cam):
         [sg.Text("メインメニュー",font=(' 小塚ゴシック Pro B',24),text_color = '#0000ff',
                  background_color='#ffff00',relief=sg.RELIEF_SUNKEN)],
         [sg.Image(filename='title.png')],
-        [sg.Spin(lis,key="-camnum-",initial_value=1),sg.Text("カメラ番号を選択")]
+        [sg.Spin(lis,key="-camnum-",initial_value=0),sg.Text("カメラ番号を選択")]
         ,[sg.Button('カメラ指定')],
         [sg.Text("詳細"),frame1],
         [sg.Button('ゲームモード'), sg.Button('フリーモード')]
