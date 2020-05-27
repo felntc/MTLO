@@ -34,7 +34,7 @@ install
 - Python環境→iromonea/iromonea.pyを実行する
 - exeで実行→releasesからwindows packageをダウンロードし、windowspackage/iromonea/iromonea.exeを実行
   
-### 最初に(毎回)やること
+### 毎回やること
 1. **まずメインメニューで"カメラ指定"ボタンを押します(この画面になるたび必要)**
 ![image](https://user-images.githubusercontent.com/64360965/82986397-b6903580-a030-11ea-9f9a-de728598380e.png)
 2. ***既に顔が写っていても必ず押してください***(ほとんどの人は0番です)  
@@ -43,10 +43,10 @@ install
 ### zoomなどの設定
 1. アプリを起動する  
 1. OBSを起動する  
-2. OBSでツール→バーチャルカメラを起動 
-![image](https://user-images.githubusercontent.com/64360965/82987669-e50f1000-a032-11ea-9d13-a1fe975be3bc.png)
-3. OBSで下のソース→"+"ボタン→ウィンドウキャプチャを選択  
-![image](https://user-images.githubusercontent.com/64360965/82987710-fb1cd080-a032-11ea-83ac-0571c6b94164.png)
+2. OBSでツール→バーチャルカメラを起動  
+![image](https://user-images.githubusercontent.com/64360965/82987669-e50f1000-a032-11ea-9d13-a1fe975be3bc.png)  
+3. OBSで下のソース→"+"ボタン→ウィンドウキャプチャを選択   
+![image](https://user-images.githubusercontent.com/64360965/82987710-fb1cd080-a032-11ea-83ac-0571c6b94164.png)  
 4. python-cameraを探す  
 5. なければshow hidden windowsにチェックして探す  
 6. OBSで赤枠で画面の位置を調整する（フルサイズだとzoomなどに収まらないので小さめで）
@@ -57,6 +57,8 @@ install
 - ***ここで光のあたり具合やカメラの向きを調整して検出しやすいポジションを見分けると良いでしょう***
 ### ゲームモード
 - 複数人でプレイします。オンライン環境、バーチャルカメラが必要です
+- あらかじめ決めておくこと
+①部屋ID、②プレイ人数、③クリア人数、④制限時間、⑤ホストorゲスト  
 ![image](https://user-images.githubusercontent.com/64360965/82986799-77161900-a031-11ea-9b27-e0b2f99c191d.png)
 1. お名前、パスワードを入力します。
 2. グループでプレイ人数と部屋ID、クリア条件を決めておいてください。*共通のもの*を使用します
