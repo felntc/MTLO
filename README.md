@@ -1,5 +1,7 @@
 # iromonea
-笑わせるホストk人、観客n-k人のゲストに分かれ、制限時間以内にゲストを人笑わせれば勝ち、時間が来たら負けをオンラインで実現するアプリです
+- 笑わせるホストk人、観客n-k人のゲストに分ける
+- 制限時間以内にゲストを人笑わせれば勝ち、時間が来たら負けのゲーム  
+- ホストはネタや話で笑わせる。画面共有するのもあり  
 ![image](https://user-images.githubusercontent.com/64360965/82986242-79c43e80-a030-11ea-96c9-621453beb439.png)  
 
 # 利用アンケートにご協力ください  
@@ -41,8 +43,10 @@ install
 ### zoomなどの設定
 1. アプリを起動する  
 1. OBSを起動する  
-2. OBSでツール→バーチャルカメラを起動   
+2. OBSでツール→バーチャルカメラを起動 
+![image](https://user-images.githubusercontent.com/64360965/82987669-e50f1000-a032-11ea-9d13-a1fe975be3bc.png)
 3. OBSで下のソース→"+"ボタン→ウィンドウキャプチャを選択  
+![image](https://user-images.githubusercontent.com/64360965/82987710-fb1cd080-a032-11ea-83ac-0571c6b94164.png)
 4. python-cameraを探す  
 5. なければshow hidden windowsにチェックして探す  
 6. OBSで赤枠で画面の位置を調整する（フルサイズだとzoomなどに収まらないので小さめで）
