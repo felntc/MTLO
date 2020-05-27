@@ -33,7 +33,7 @@ Mac参考サイト:https://note.com/junky/n/neeeeddf57bde
 - この場合ゲームは進行しますがMTGアプリ上ではゲストが笑ってもCLEARなどが反映されません 
 
 ## python環境導入についてはinstallation.mdを参照  
-install
+https://github.com/felntc/iromonea/blob/master/installation.md
   
 ## 遊び方
 - Python環境→iromonea/iromonea.pyを実行する
@@ -89,4 +89,7 @@ install
 - うまく検出されない時はカメラの向きや距離、光のあたり具合を調整しましょう
 - Mac Catalina /Zoom5.0.2では動作を確認しています
 - 動作が重いです。これは作者の設計やコードスキルによるところが大きいと思われます
+
+## システム構成  
+https://github.com/felntc/iromonea/blob/master/system.png
 
