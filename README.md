@@ -36,8 +36,8 @@ https://obsproject.com/ja/download
 [installation.md](/installation.md)
   
 ## 遊び方
-- Python環境→iromonea/iromonea.pyを実行する
-- exeで実行→releasesからwindows packageをダウンロードし、windowspackage/iromonea/iromonea.exeを実行  
+- Python環境→[iromonea.py](iromonea/iromonea.py)を実行
+- exeで実行→releasesからwindows packageをダウンロード。中にあるiromonea/iromonea.exeを実行 
 - 起動に失敗する時：iromonea.pyのline11:cam=0を0以外の値に指定する
 
 ### 起動したときだけやること（※update済）
