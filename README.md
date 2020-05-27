@@ -12,11 +12,12 @@ https://forms.gle/Ki7M2oo6E9GcrcpM9
 
 ## 用意するもの
 **※(Zoomなどでカメラ出力する場合)** 
-- OBSなどの配信ソフト
+- OBSなどの配信ソフト  
 https://obsproject.com/ja/download  
 - OBS virtualcameraなどのバーチャルカメラ  
 win:https://obsproject.com/forum/resources/obs-virtualcam.539/  
 win参考サイト:https://level69.net/archives/26918  
+  
 Mac:https://github.com/johnboiles/obs-mac-virtualcam/releases  
 Mac参考サイト:https://note.com/junky/n/neeeeddf57bde  
 注意:MacだとZoomでうまく認識されず、署名を書き換えたりする場合があります(上記参照)
@@ -25,7 +26,8 @@ Mac参考サイト:https://note.com/junky/n/neeeeddf57bde
 (ZoomとGooogleMeet、slackなどで繋ぎまくって一人一サービスで画面共有など)　　
 
 ## python環境導入についてはinstllation.mdを参照  
-
+  
+  
 ## 遊び方
 - Python環境→iromonea/iromonea.pyを実行する
 - exeで実行→releasesからwindows packageをダウンロードし、windowspackage/iromonea/iromonea.exeを実行
