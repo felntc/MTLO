@@ -178,10 +178,6 @@ def game(cam,window00):
             while True:
                 result =  ws.recv()
                 intercount+=1
-                sg.popup_animated("load.gif",message="Loading..",
-                               grab_anywhere=True,
-                               alpha_channel=None,
-                               time_between_frames=0)
                 if result=="start":
                     starttime=time.time()
                     pygame.mixer.music.load("start.mp3")
