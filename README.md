@@ -68,7 +68,7 @@ install
 3. ホストかゲストを選択.ホストが複数人であっても大丈夫です  
 3. ログインします
 4. **チェックを押す** パスワードや人数が同じであれば次に進みます
-![image](https://user-images.githubusercontent.com/64360965/82992666-6cac4d00-a03a-11ea-89e6-3a07d563151a.png)  
+![image](https://user-images.githubusercontent.com/64360965/82992666-6cac4d00-a03a-11ea-89e6-3a07d563151a.png)    
 4. 上のポップアップが出たら誰かがログインしていないか、誰かの設定ミスです。設定ミスの場合はもう一度入力し直してログインを押す（※update済）  
 ![image](https://user-images.githubusercontent.com/64360965/82987217-2a7f0d80-a032-11ea-87f9-8059ef3ccfca.png)
 5. 制限時間を入力します。*共通のもの*を使用します
