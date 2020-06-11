@@ -1,11 +1,11 @@
-# iromonea
+# MTLO(Make them Laugh Online)
 - 笑わせるホストk人、観客としてn-k人のゲストに分ける
 - 制限時間以内にゲストをi人笑わせれば勝ち、時間が来たら負けのゲーム  
 - ホストはネタや話で笑わせる。画面共有するのもあり  
 ![image](https://user-images.githubusercontent.com/64360965/82986242-79c43e80-a030-11ea-96c9-621453beb439.png)  
 
 # 利用アンケートにご協力ください  
-https://forms.gle/Ki7M2oo6E9GcrcpM9
+~~https://forms.gle/Ki7M2oo6E9GcrcpM9~~
 
 ## 概要
 - ZoomやGooglemeetなどで、イロモネアを実現するアプリケーションです
@@ -43,7 +43,7 @@ https://obsproject.com/ja/download
 ### 起動したときだけやること（※update済）
 1. メインメニューでカメラ指定の番号を調節する   
 ※環境ごとにカメラ設定が違うので、初めは0→指定ボタンクリック,1→指定ボタンクリック,2...と探す
-![image](https://user-images.githubusercontent.com/64360965/82986397-b6903580-a030-11ea-9f9a-de728598380e.png)  
+![82986397-b6903580-a030-11ea-9f9a-de728598380e](https://user-images.githubusercontent.com/64360965/84377880-4bdd1d80-ac1e-11ea-8257-b01a51dfa8ba.png)  
 2. ***顔が写ったら次へ***
 
 
@@ -84,7 +84,7 @@ https://obsproject.com/ja/download
 
 ## 注意事項
 - **バックエンドにAWSを使用していますが、課金状況によっては取りやめることがあります**
-- そのため、永続的な動作は保証できません
+- ~~そのため、永続的な動作は保証できません~~ 終了しました
 - **逆光などの条件ではうまく表情を判別しない時があります**
 - うまく検出されない時はカメラの向きや距離、光のあたり具合を調整しましょう
 - Mac Catalina /Zoom5.0.2では動作を確認しています
